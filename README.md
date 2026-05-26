@@ -1,7 +1,10 @@
 # Examen 2 — Comparación Random Forest vs SVM  
 ## Sistema Fotovoltaico Instrumentado · Inteligencia Artificial
 
-**Grupo:** [Nombres del grupo]  
+**Grupo:** 
+- Belsy Jhossira Mena Renteria
+- Daniel Restrepo Ocampo
+- Carlos Mario Carretero Castillo
 **Institución:** Universidad Tecnológica de Pereira  
 **Docente:** German A. Holguín L.
 
