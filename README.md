@@ -2,9 +2,11 @@
 ## Sistema Fotovoltaico Instrumentado · Inteligencia Artificial
 
 **Grupo:** 
-- Belsy Jhossira Mena Renteria
-- Daniel Restrepo Ocampo
-- Carlos Mario Carretero Castillo
+ - Belsy Jhossira Mena Renteria
+ - Daniel Restrepo Ocampo
+ - Carlos Mario Carretero Castillo
+
+
 **Institución:** Universidad Tecnológica de Pereira  
 **Docente:** German A. Holguín L.
 
